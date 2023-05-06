@@ -3,7 +3,7 @@
 s3rv3r_b4nn3r is a simple shell script that can take list of URLs as file as input and show their respective server banner.
 
 
-[![asciicast](https://asciinema.org/a/bz9E4A0YZjcbT3ZE5rzhmEE95.svg)](https://asciinema.org/a/bz9E4A0YZjcbT3ZE5rzhmEE95)
+[![asciicast](https://asciinema.org/a/582955.svg)](https://asciinema.org/a/582955)
 
 ### Installation 
 ```
