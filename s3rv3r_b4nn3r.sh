@@ -14,6 +14,11 @@ Green='\033[0;32m'
 Yellow='\033[0;33m'
 NC='\033[0m' # No Color
 
+if [[ ! -x $(which curl) ]]; then
+    echo "[-] WARNING: Optional dependencies unmet. Please verify curl is installed or not" >&2
+    exit 1
+fi
+
 
 while read -r line
 do
