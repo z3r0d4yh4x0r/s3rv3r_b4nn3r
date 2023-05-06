@@ -4,7 +4,9 @@ s3rv3r_b4nn3r is a simple shell script that can take list of URLs as file as inp
 
 ### Output
 
-![alt text](https://i.ibb.co/H21ywFM/Screenshot-from-2023-05-06-20-58-22.png)
+<p align="center">
+  <img src="https://github.com/z3r0d4yh4x0r/s3rv3r_b4nn3r/blob/main/Output.png">
+</p>
 
 ### Demo
 [![asciicast](https://asciinema.org/a/582955.svg)](https://asciinema.org/a/582955)
