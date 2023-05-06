@@ -22,6 +22,7 @@ fi
 
 while read -r line
 do
+  [ -z "$line" ] && continue
   server=`curl -sI $line | grep -wi server`
   if test -z "$server" ;then
    	printf "$line : ${Green}NOT DETECTED${NC}\n"
